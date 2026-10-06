@@ -1,0 +1,25 @@
+# Virtual environment
+eviron1/
+
+# Data files
+vahan_data/
+*.db
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Temp files
+temp_downloads/
+*.log
+
+*.png
+*.xlsx
+*.html
+templates/
+monthend_files/
+monthly_maker_vehicle_class_data/
+quarantine/
